@@ -1,10 +1,20 @@
-from bs4 import BeautifulSoup  # Import BeautifulSoup class from bs4 module
+import requests
+import os
 
-# Open the HTML file named 'home.html' in read mode
-with open('home.html', 'r') as html_file:
-    content = html_file.read()  # Read the entire content of the file into 'content'
+def fetch_and_save(url, path):
+    try:
+        r = requests.get(url)
+        r.raise_for_status()  # Raise an exception for bad status codes
+    except requests.RequestException as e:
+        print(f"Error fetching URL: {e}")
+        return
 
-# Create a BeautifulSoup object from the HTML content using the built-in HTML parser
-soup = BeautifulSoup(content, 'html.parser')
+    dir_path, file_name = os.path.split(path)
+    if not os.path.exists(dir_path):
+        os.makedirs(dir_path)
 
-# Now you can use the 'soup' object to interact with the parsed HTML
+    with open(path, "w") as f:
+        f.write(r.text)
+
+url = "https://timesofindia.indiatimes.com/city/delhi"
+fetch_and_save(url, "date/times.html")
