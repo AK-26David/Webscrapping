@@ -1,6 +1,1176 @@
 [
     {
-        "accordion_text": "Herbicidas\n\t\t\t\t\t\t\t(33)",
+        "accordion_text": "HERBICIDAS (30)",
         "products": []
+    },
+    {
+        "accordion_text": "FUNGICIDAS (29)",
+        "products": [
+            {
+                "product_name": "ABSIDEL",
+                "product_link": "https://www.upl-ltd.com/es/Productos/absidel",
+                "cultivos_clave": [
+                    "Centeno",
+                    "Trigo",
+                    "Triticale"
+                ]
+            },
+            {
+                "product_name": "ALCOR",
+                "product_link": "https://www.upl-ltd.com/es/Productos/alcor",
+                "cultivos_clave": [
+                    "Berenjena",
+                    "Brécol",
+                    "Coles de Bruselas",
+                    "Coliflor",
+                    "Espinacas y similares",
+                    "Fresal",
+                    "Lechuga y similares",
+                    "Naranjo",
+                    "Patata",
+                    "Pimiento",
+                    "Pomelo",
+                    "Repollo",
+                    "Tomate",
+                    "Toronja",
+                    "Vid"
+                ]
+            },
+            {
+                "product_name": "ATTENZO® STAR",
+                "product_link": "https://www.upl-ltd.com/es/Productos/attenzo-star",
+                "cultivos_clave": [
+                    "Arbustos y pequeños árboles ornamentales",
+                    "Berenjena",
+                    "Champiñones",
+                    "Cucurbitáceas",
+                    "Ornamentales herbáceas",
+                    "Pimiento",
+                    "Tomate",
+                    "Vid",
+                    "Viveros"
+                ]
+            },
+            {
+                "product_name": "CONSIST®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/consist",
+                "cultivos_clave": [
+                    "Albaricoquero",
+                    "Arroz",
+                    "Calabacín",
+                    "Fresal",
+                    "Manzano",
+                    "Melocotón",
+                    "Melón",
+                    "Olivo",
+                    "Pepino",
+                    "Peral",
+                    "Pimiento",
+                    "Tomate",
+                    "Vid"
+                ]
+            },
+            {
+                "product_name": "CORE®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/core",
+                "cultivos_clave": [
+                    "Ajo",
+                    "Apio",
+                    "Clavel",
+                    "Espárrago",
+                    "Lechuga",
+                    "Manzano",
+                    "Níspero",
+                    "Níspero del Japón",
+                    "Olivo",
+                    "Patata",
+                    "Peral",
+                    "Remolacha azucarera",
+                    "Tomate"
+                ]
+            },
+            {
+                "product_name": "CUPROFIX® C DISPERSS",
+                "product_link": "https://www.upl-ltd.com/es/Productos/cuprofix-c-disperss",
+                "cultivos_clave": [
+                    "Patata",
+                    "Tomate"
+                ]
+            },
+            {
+                "product_name": "FOLDER® 80 WG",
+                "product_link": "https://www.upl-ltd.com/es/Productos/folder-80-wg",
+                "cultivos_clave": [
+                    "Vid"
+                ]
+            },
+            {
+                "product_name": "MALVIN® 80 WG",
+                "product_link": "https://www.upl-ltd.com/es/Productos/malvin-80-wg",
+                "cultivos_clave": [
+                    "Albaricoquero",
+                    "Cerezo",
+                    "Ciruelo",
+                    "Fresal",
+                    "Manzano",
+                    "Melocotón",
+                    "Peral",
+                    "Tomate"
+                ]
+            },
+            {
+                "product_name": "MANDATORIO",
+                "product_link": "https://www.upl-ltd.com/es/Productos/mandatorio-fungicida-upl",
+                "cultivos_clave": [
+                    "Vid"
+                ]
+            },
+            {
+                "product_name": "METIX®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/metix",
+                "cultivos_clave": [
+                    "Vid"
+                ]
+            },
+            {
+                "product_name": "MICROTHIOL® SPECIAL DISPERSS",
+                "product_link": "https://www.upl-ltd.com/es/Productos/microthiol-special-disperss",
+                "cultivos_clave": [
+                    "Acelgas",
+                    "Achicoria",
+                    "Ajo tierno",
+                    "Alcachofa",
+                    "Almendro",
+                    "Apio",
+                    "Arbustos y pequeños árboles ornamentales",
+                    "Avellano",
+                    "Berenjena",
+                    "Berro",
+                    "Borraja",
+                    "Brotes tiernos",
+                    "Bulbos hortícolas",
+                    "Canónigos",
+                    "Cardo",
+                    "Castaño",
+                    "Cereales de primavera e invierno",
+                    "Coles",
+                    "Cucurbitáceas",
+                    "Diente de león",
+                    "Endibia",
+                    "Escarola",
+                    "Espárrago",
+                    "Espinacas",
+                    "Fresal",
+                    "Frutales de hueso",
+                    "Frutales de pepita",
+                    "Guisantes",
+                    "Haba",
+                    "Higuera",
+                    "Hinojo",
+                    "Hortalizas de bulbo",
+                    "Hortalizas del género brassica",
+                    "Judías",
+                    "Lechuga",
+                    "Lúpulo",
+                    "Nogal",
+                    "Nuez de pecán",
+                    "Olivo",
+                    "Otras hortícolas de raíz",
+                    "Pino",
+                    "Pistacho",
+                    "Plantaciones tropicales/subtropicales",
+                    "Puerro",
+                    "Raíces y tubérculos (excepto remolacha azucarera y patata)",
+                    "Remolacha azucarera",
+                    "Remolacha de mesa",
+                    "Remolacha forrajera",
+                    "Rúcula",
+                    "Tomate",
+                    "Verdolaga",
+                    "Vid"
+                ]
+            },
+            {
+                "product_name": "NOVICURE®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/novicure-1",
+                "cultivos_clave": [
+                    "Ajo",
+                    "Alcachofa",
+                    "Arbustos y pequeños árboles ornamentales",
+                    "Berenjena",
+                    "Brécol",
+                    "Cebolla",
+                    "Cerezo",
+                    "Chalotas",
+                    "Ciruelo",
+                    "Coliflor",
+                    "Coníferas",
+                    "Cucurbitáceas de piel comestible y piel no comestible",
+                    "Frondosas",
+                    "Frutales de hueso",
+                    "Guisantes verdes",
+                    "Habas verdes",
+                    "Judías verdes",
+                    "Lechuga y similares",
+                    "Melón",
+                    "Nogal",
+                    "Olivo",
+                    "Ornamentales leñosas",
+                    "Palmáceas",
+                    "Palmera datilera",
+                    "Patata",
+                    "Pepino",
+                    "Sandía",
+                    "Tomate",
+                    "Vid vinificación"
+                ]
+            },
+            {
+                "product_name": "OPTIX® DISPERSS",
+                "product_link": "https://www.upl-ltd.com/es/Productos/optix-disperss",
+                "cultivos_clave": [
+                    "Cítricos",
+                    "Vid"
+                ]
+            },
+            {
+                "product_name": "PROPLANT®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/proplant",
+                "cultivos_clave": [
+                    "Berenjena",
+                    "Calabacín",
+                    "Lechuga",
+                    "Melón",
+                    "Pepino",
+                    "Pimiento",
+                    "Sandía",
+                    "Semilleros de hortícolas",
+                    "Suelos de semilleros hortícolas",
+                    "Suelos de semilleros sin planta",
+                    "Tomate"
+                ]
+            },
+            {
+                "product_name": "PROTIOSTAR®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/protiostar",
+                "cultivos_clave": [
+                    "Cebada",
+                    "Trigo",
+                    "Triticale"
+                ]
+            },
+            {
+                "product_name": "PROXANIL®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/proxanil",
+                "cultivos_clave": [
+                    "Batata",
+                    "Boniato",
+                    "Ñame",
+                    "Patata",
+                    "Tomate"
+                ]
+            },
+            {
+                "product_name": "PYRUS®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/pyrus-400-sc",
+                "cultivos_clave": [
+                    "Berenjena",
+                    "Lechuga",
+                    "Tomate"
+                ]
+            },
+            {
+                "product_name": "REMOCCO",
+                "product_link": "https://www.upl-ltd.com/es/Productos/remocco",
+                "cultivos_clave": [
+                    "Cebada",
+                    "Colza",
+                    "Trigo"
+                ]
+            },
+            {
+                "product_name": "RSR® DISPERSS",
+                "product_link": "https://www.upl-ltd.com/es/Productos/caldo-bordeles-rsr-disperss",
+                "cultivos_clave": [
+                    "Alcachofa",
+                    "Avellano",
+                    "Berenjena",
+                    "Brécol",
+                    "Calabacín",
+                    "Castaño",
+                    "Cebolla",
+                    "Cerezo",
+                    "Ciruelo",
+                    "Cítricos",
+                    "Coliflor",
+                    "Escarola",
+                    "Fresal",
+                    "Judías verdes",
+                    "Lechuga",
+                    "Manzano",
+                    "Melón",
+                    "Membrillero",
+                    "Nashi",
+                    "Nogal",
+                    "Olivo",
+                    "Ornamentales leñosas",
+                    "Patata",
+                    "Pepino",
+                    "Peral",
+                    "Pimiento",
+                    "Remolacha",
+                    "Tomate",
+                    "Vid",
+                    "Zanahoria"
+                ]
+            },
+            {
+                "product_name": "SACRON® WG",
+                "product_link": "https://www.upl-ltd.com/es/Productos/sacron-wg",
+                "cultivos_clave": [
+                    "Patata",
+                    "Tomate",
+                    "Vid"
+                ]
+            },
+            {
+                "product_name": "SPIROX® 500 EC",
+                "product_link": "https://www.upl-ltd.com/es/Productos/spirox-500-ec",
+                "cultivos_clave": [
+                    "Vid",
+                    "Vid vinificación"
+                ]
+            },
+            {
+                "product_name": "SYLLIT® MAX",
+                "product_link": "https://www.upl-ltd.com/es/Productos/syllit-max",
+                "cultivos_clave": [
+                    "Almendro",
+                    "Cerezo",
+                    "Cítricos",
+                    "Frutales de pepita",
+                    "Manzano",
+                    "Melocotón",
+                    "Membrillero",
+                    "Nectarina",
+                    "Níspero",
+                    "Olivo",
+                    "Peral"
+                ]
+            },
+            {
+                "product_name": "THIOPRON® 825",
+                "product_link": "https://www.upl-ltd.com/es/Productos/thiopron-1",
+                "cultivos_clave": [
+                    "Arbustos ornamentales",
+                    "Arroz",
+                    "Cereales",
+                    "Coles",
+                    "Cucurbitáceas",
+                    "Espinacas",
+                    "Frutales de hueso",
+                    "Frutales de pepita",
+                    "Frutas subtropicales/tropicales",
+                    "Guisantes",
+                    "Hortalizas de bulbo",
+                    "Judías",
+                    "Lechuga",
+                    "Lúpulo",
+                    "Olivo",
+                    "Raíces hortícolas",
+                    "Remolacha azucarera",
+                    "Tomate",
+                    "Vid"
+                ]
+            },
+            {
+                "product_name": "THODERM G®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/thoderm-g-1",
+                "cultivos_clave": [
+                    "Apio",
+                    "Árboles y arbustos frutales",
+                    "Arbustos y pequeños árboles ornamentales",
+                    "Berza",
+                    "Cebolla",
+                    "Col",
+                    "Coliflor",
+                    "Coníferas",
+                    "Especias",
+                    "Fresal",
+                    "Frondosas",
+                    "Haba forrajera",
+                    "Habas para grano",
+                    "Hortícolas",
+                    "Judía forrajera",
+                    "Judías para grano",
+                    "Locales y almacenes",
+                    "Melón",
+                    "Nabo",
+                    "Ornamentales herbáceas",
+                    "Té y otras infusiones"
+                ]
+            },
+            {
+                "product_name": "THODERM P®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/thoderm-p-1",
+                "cultivos_clave": [
+                    "Apio",
+                    "Árboles y arbustos frutales",
+                    "Arbustos y pequeños árboles ornamentales",
+                    "Berza",
+                    "Cebolla",
+                    "Col",
+                    "Coliflor",
+                    "Coníferas",
+                    "Especias",
+                    "Fresal",
+                    "Frondosas",
+                    "Haba forrajera",
+                    "Habas para grano",
+                    "Hortícolas",
+                    "Judía forrajera",
+                    "Judías para grano",
+                    "Lechuga",
+                    "Locales y almacenes",
+                    "Melón",
+                    "Nabo",
+                    "Ornamentales herbáceas",
+                    "Palmáceas",
+                    "Palmera datilera",
+                    "Pepino",
+                    "Pimiento",
+                    "Puerro",
+                    "Té y otras infusiones",
+                    "Tomate",
+                    "Zanahoria"
+                ]
+            },
+            {
+                "product_name": "VACCIPLANT® MAX",
+                "product_link": "https://www.upl-ltd.com/es/Productos/vacciplant-max-1",
+                "cultivos_clave": [
+                    "Berenjena",
+                    "Calabacín",
+                    "Fresal",
+                    "Judías verdes",
+                    "Lechuga",
+                    "Manzano",
+                    "Membrillero",
+                    "Pepino",
+                    "Peral",
+                    "Pimiento",
+                    "Tomate",
+                    "Vid"
+                ]
+            },
+            {
+                "product_name": "YUKON®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/yukon-1",
+                "cultivos_clave": [
+                    "Remolacha azucarera",
+                    "Remolacha de mesa",
+                    "Vid"
+                ]
+            },
+            {
+                "product_name": "ZOXIS 250® SC",
+                "product_link": "https://www.upl-ltd.com/es/Productos/zoxis-250-sc",
+                "cultivos_clave": [
+                    "Ajo",
+                    "Alcachofa",
+                    "Arroz",
+                    "Berenjena",
+                    "Brécol",
+                    "Calabacín",
+                    "Calabaza",
+                    "Cebada",
+                    "Cebolla",
+                    "Espárrago",
+                    "Fresal",
+                    "Guisante proteaginoso",
+                    "Guisantes",
+                    "Judías",
+                    "Judías verdes",
+                    "Melón",
+                    "Pepino",
+                    "Pimiento",
+                    "Sandía",
+                    "Tomate",
+                    "Trigo",
+                    "Triticale",
+                    "Zanahoria"
+                ]
+            }
+        ]
+    },
+    {
+        "accordion_text": "REGULADORES DE CRECIMIENTO (7)",
+        "products": [
+            {
+                "product_name": "ALCOR",
+                "product_link": "https://www.upl-ltd.com/es/Productos/alcor",
+                "cultivos_clave": [
+                    "Berenjena",
+                    "Brécol",
+                    "Coles de Bruselas",
+                    "Coliflor",
+                    "Espinacas y similares",
+                    "Fresal",
+                    "Lechuga y similares",
+                    "Naranjo",
+                    "Patata",
+                    "Pimiento",
+                    "Pomelo",
+                    "Repollo",
+                    "Tomate",
+                    "Toronja",
+                    "Vid"
+                ]
+            },
+            {
+                "product_name": "ARGOS",
+                "product_link": "https://www.upl-ltd.com/es/Productos/Argos",
+                "cultivos_clave": [
+                    "Patata"
+                ]
+            },
+            {
+                "product_name": "ATONIK®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/atonik",
+                "cultivos_clave": [
+                    "Arroz",
+                    "Berenjena (aire libre e invernadero)",
+                    "Calabacín (solo invernadero)",
+                    "Melón y sandía (solo aire libre)",
+                    "Pepino (aire libre e invernadero)",
+                    "Pimiento (aire libre e invernadero)",
+                    "Tomate (aire libre e invernadero)",
+                    "Vid (mesa y vinificación)"
+                ]
+            },
+            {
+                "product_name": "B-NINE®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/b-nine",
+                "cultivos_clave": [
+                    "Azalea",
+                    "Crisantemo",
+                    "Gardenia",
+                    "Hortensia",
+                    "Ornamentales herbáceas",
+                    "Poinsettia",
+                    "Viveros"
+                ]
+            },
+            {
+                "product_name": "COTTON FIX",
+                "product_link": "https://www.upl-ltd.com/es/Productos/cotton-fix",
+                "cultivos_clave": [
+                    "Algodón"
+                ]
+            },
+            {
+                "product_name": "FLORDIMEX®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/Flordimex-ReguladordeCrecimiento",
+                "cultivos_clave": [
+                    "Manzano",
+                    "Olivo",
+                    "Uva de mesa"
+                ]
+            },
+            {
+                "product_name": "ROYAL MH®-30",
+                "product_link": "https://www.upl-ltd.com/es/Productos/royal-mh-30",
+                "cultivos_clave": [
+                    "Cebolla",
+                    "Tabaco"
+                ]
+            },
+            {
+                "product_name": "TERBEL® MAX",
+                "product_link": "https://www.upl-ltd.com/es/Productos/terbel-max",
+                "cultivos_clave": [
+                    "Albaricoquero",
+                    "Limonero",
+                    "Mandarino",
+                    "Manzano",
+                    "Naranjo",
+                    "Peral",
+                    "Pomelo"
+                ]
+            }
+        ]
+    },
+    {
+        "accordion_text": "INSECTICIDAS (13)",
+        "products": [
+            {
+                "product_name": "BARANDEL®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/barandel",
+                "cultivos_clave": [
+                    "Arbustos frutales",
+                    "Cítricos",
+                    "Otros árboles"
+                ]
+            },
+            {
+                "product_name": "CARPOVIRUSINA® EVO 2",
+                "product_link": "https://www.upl-ltd.com/es/Productos/carpovirusina-evo-2-1",
+                "cultivos_clave": [
+                    "Albaricoquero",
+                    "Ciruelo",
+                    "Manzano",
+                    "Membrillero",
+                    "Nashi",
+                    "Nogal",
+                    "Peral"
+                ]
+            },
+            {
+                "product_name": "CORMITE®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/cormite",
+                "cultivos_clave": [
+                    "Berenjena",
+                    "Cucurbitáceas de piel comestible y piel no comestible",
+                    "Fresal",
+                    "Tomate",
+                    "Uso sólo autorizado en invernadero"
+                ]
+            },
+            {
+                "product_name": "CYTHRIN® 100 EC",
+                "product_link": "https://www.upl-ltd.com/es/Productos/cythrin-100-ec",
+                "cultivos_clave": [
+                    "Alcachofa",
+                    "Alfalfa",
+                    "Apionabo",
+                    "Avena",
+                    "Brécol",
+                    "Calabaza",
+                    "Cebada",
+                    "Centeno",
+                    "Chirivía",
+                    "Coliflor",
+                    "Colinabo",
+                    "Colza",
+                    "Escorzonera",
+                    "Espelta",
+                    "Guisantes",
+                    "Judías verdes",
+                    "Maíz",
+                    "Melón",
+                    "Mostaza",
+                    "Nabo",
+                    "Olivo",
+                    "Ornamentales leñosas",
+                    "Patata",
+                    "Rábano",
+                    "Remolacha azucarera",
+                    "Remolacha de mesa",
+                    "Remolacha forrajera",
+                    "Repollo",
+                    "Sandía",
+                    "Trigo",
+                    "Triticale",
+                    "Vid",
+                    "Zanahoria"
+                ]
+            },
+            {
+                "product_name": "CYTHRIN® MAX",
+                "product_link": "https://www.upl-ltd.com/es/Productos/cythrin-max",
+                "cultivos_clave": [
+                    "Alcachofa",
+                    "Alfalfa",
+                    "Arbustos ornamentales",
+                    "Cereales",
+                    "Chopos",
+                    "Colza",
+                    "Cultivos arbóreos",
+                    "Cultivos extensivos",
+                    "Cultivos hortícolas",
+                    "Cultivos ornamentales",
+                    "Espárrago",
+                    "Guisantes",
+                    "Hortalizas del género brassica",
+                    "Hortícolas",
+                    "Judías",
+                    "Maíz",
+                    "Ornamentales herbáceas",
+                    "Patata",
+                    "Remolacha azucarera",
+                    "Remolacha de mesa",
+                    "Remolacha forrajera",
+                    "Tabaco",
+                    "Vid"
+                ]
+            },
+            {
+                "product_name": "DELTAGRI®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/deltagri",
+                "cultivos_clave": [
+                    "Ajo",
+                    "Alcachofa",
+                    "Alfalfa",
+                    "Almendro",
+                    "Apio",
+                    "Arbustos ornamentales",
+                    "Arbustos y árboles ornamentales",
+                    "Avellano",
+                    "Berenjena",
+                    "Brassicas",
+                    "Castaño",
+                    "Cebada",
+                    "Cebolla",
+                    "Cereales de primavera e invierno",
+                    "Cítricos",
+                    "Colza",
+                    "Cucurbitáceas",
+                    "Espárrago",
+                    "Fresal",
+                    "Frutales de hueso",
+                    "Frutales de pepita",
+                    "Girasol",
+                    "Guisantes",
+                    "Lechuga",
+                    "Leguminosas",
+                    "Maíz",
+                    "Nogal",
+                    "Olivo",
+                    "Ornamentales herbáceas",
+                    "Patata",
+                    "Perejil",
+                    "Pimiento",
+                    "Rábano",
+                    "Rúcula",
+                    "Tabaco",
+                    "Tomate",
+                    "Vid",
+                    "Zanahoria"
+                ]
+            },
+            {
+                "product_name": "LECISUM®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/lecisum",
+                "cultivos_clave": [
+                    "Berenjena",
+                    "Judías verdes",
+                    "Pepino",
+                    "Pimiento",
+                    "Platanera",
+                    "Tabaco",
+                    "Tomate"
+                ]
+            },
+            {
+                "product_name": "OMITE® TOP",
+                "product_link": "https://www.upl-ltd.com/es/Productos/ovipron-top",
+                "cultivos_clave": [
+                    "Bayas",
+                    "Caqui",
+                    "Cítricos",
+                    "Frutales de cáscara",
+                    "Frutales de hueso",
+                    "Frutales de pepita",
+                    "Kiwi",
+                    "Vid"
+                ]
+            },
+            {
+                "product_name": "OSTRINIL®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/ostrinil-1",
+                "cultivos_clave": [
+                    "Palmeras ornamentales"
+                ]
+            },
+            {
+                "product_name": "POLITHIOL®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/polithiol",
+                "cultivos_clave": [
+                    "Albaricoquero",
+                    "Almendro",
+                    "Arándano",
+                    "Avellano",
+                    "Caqui",
+                    "Castaño",
+                    "Cerezo",
+                    "Ciruelo",
+                    "Frambuesa",
+                    "Grosellas",
+                    "Kiwi",
+                    "Manzano",
+                    "Mora",
+                    "Nogal",
+                    "Peral",
+                    "Vid"
+                ]
+            },
+            {
+                "product_name": "SHENZI®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/shenzi",
+                "cultivos_clave": [
+                    "Aguacate",
+                    "Albaricoquero",
+                    "Algodón",
+                    "Almendro",
+                    "Batata",
+                    "Berenjena",
+                    "Boniato",
+                    "Castaño",
+                    "Ciruelo",
+                    "Cítricos",
+                    "Endrino",
+                    "Granado",
+                    "Maíz",
+                    "Maíz de grano",
+                    "Manzano",
+                    "Melocotón",
+                    "Membrillero",
+                    "Níspero",
+                    "Nogal",
+                    "Patata",
+                    "Peral",
+                    "Pistacho",
+                    "Tomate",
+                    "Vid vinificación"
+                ]
+            },
+            {
+                "product_name": "SINALA®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/sinala",
+                "cultivos_clave": [
+                    "Acelgas",
+                    "Achicoria",
+                    "Aguacate",
+                    "Ajo",
+                    "Albaricoquero",
+                    "Alcachofa",
+                    "Almendro",
+                    "Apio",
+                    "Arándano",
+                    "Arbustos y pequeños árboles ornamentales",
+                    "Avellano",
+                    "Batata",
+                    "Berenjena",
+                    "Berro",
+                    "Berza",
+                    "Boniato",
+                    "Brécol",
+                    "Brotes tiernos",
+                    "Calabacín",
+                    "Calabaza",
+                    "Cáñamo",
+                    "Canónigos",
+                    "Caqui",
+                    "Cebolleta",
+                    "Cerezo",
+                    "Chalotas",
+                    "Chirivía",
+                    "Ciruelo",
+                    "Cítricos",
+                    "Col china",
+                    "Coles de Bruselas",
+                    "Coliflor",
+                    "Colirrábano",
+                    "Coníferas",
+                    "Crisantemo",
+                    "Endrino",
+                    "Escarola",
+                    "Escorzonera",
+                    "Espárrago",
+                    "Espinacas",
+                    "Frambuesa",
+                    "Fresal",
+                    "Frondosas",
+                    "Granado",
+                    "Guisantes verdes",
+                    "Hierbas aromáticas y flores comestibles",
+                    "Higuera",
+                    "Judías verdes",
+                    "Kiwi",
+                    "Lechuga",
+                    "Lima",
+                    "Melocotón",
+                    "Melón",
+                    "Nabo",
+                    "Nogal",
+                    "Ornamentales",
+                    "Ornamentales herbáceas",
+                    "Palmáceas",
+                    "Palmera datilera",
+                    "Pepinillos",
+                    "Pepino",
+                    "Perejil",
+                    "Pimiento",
+                    "Pistacho",
+                    "Plantaciones tropicales/subtropicales",
+                    "Platanera",
+                    "Puerro",
+                    "Rábano",
+                    "Remolacha de mesa",
+                    "Rúcula",
+                    "Salsify",
+                    "Tabaco",
+                    "Tomate",
+                    "Toronja",
+                    "Vid",
+                    "Zanahoria"
+                ]
+            }
+        ]
+    },
+    {
+        "accordion_text": "ACONDICIONADORES DE SUELO (1)",
+        "products": [
+            {
+                "product_name": "ZEBA®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/Zeba",
+                "cultivos_clave": [
+                    "Acelgas",
+                    "Achicoria",
+                    "Ajo",
+                    "Albahaca",
+                    "Alcachofa",
+                    "Apio",
+                    "Berenjena",
+                    "Berro",
+                    "Brócoli",
+                    "Calabacín",
+                    "Calabaza",
+                    "Cardo",
+                    "Cebolla",
+                    "Cereales",
+                    "Césped",
+                    "Chalotas",
+                    "Chirivía",
+                    "Col china",
+                    "Coles de Bruselas",
+                    "Coliflor",
+                    "Colinabo",
+                    "Colirrábano",
+                    "Colza",
+                    "Cubiertas vegetales",
+                    "Endibia",
+                    "Escarola",
+                    "Espárrago",
+                    "Espinacas",
+                    "Estragón",
+                    "Fresa",
+                    "Frutales de hueso, pepita, cáscara, olivo y cítricos (de nueva plantación)",
+                    "Frutales de hueso, pepita, cáscara, olivo y cítricos (más de 2 años de edad)",
+                    "Girasol",
+                    "Guisantes",
+                    "Hinojo",
+                    "Judías",
+                    "Kale",
+                    "Laurel",
+                    "Lechuga",
+                    "Lentejas",
+                    "Maíz",
+                    "Melón",
+                    "Mezcla en sustrato",
+                    "Nabo",
+                    "Ornamentales",
+                    "Patata",
+                    "Pepinillos",
+                    "Pepino",
+                    "Perejil",
+                    "Pimiento",
+                    "Salsify",
+                    "Tomate"
+                ]
+            }
+        ]
+    },
+    {
+        "accordion_text": "MICRONUTRIENTES Y FERTILIZANTES FOLIARES (4)",
+        "products": [
+            {
+                "product_name": "ARY-AMIN C",
+                "product_link": "https://www.upl-ltd.com/es/Productos/ary-amin-c",
+                "cultivos_clave": [
+                    "Cereales",
+                    "Colza",
+                    "Patata",
+                    "Remolacha azucarera"
+                ]
+            },
+            {
+                "product_name": "BY- ZYME",
+                "product_link": "https://www.upl-ltd.com/es/Productos/by-zyme-1",
+                "cultivos_clave": [
+                    "Arbustos frutales",
+                    "Berenjena",
+                    "Brassicas",
+                    "Calabacín",
+                    "Calabacín (solo invernadero)",
+                    "Calabaza",
+                    "Cítricos",
+                    "Fresal",
+                    "Frutales de hueso",
+                    "Frutales de pepita",
+                    "Leguminosas",
+                    "Olivo",
+                    "Pimiento",
+                    "Tomate",
+                    "Vid (mesa y vinificación)"
+                ]
+            },
+            {
+                "product_name": "MANBO® WET",
+                "product_link": "https://www.upl-ltd.com/es/Productos/manbo-wet",
+                "cultivos_clave": [
+                    "Todo tipo de culltivos"
+                ]
+            },
+            {
+                "product_name": "VEGEPRON SUN",
+                "product_link": "https://www.upl-ltd.com/es/Productos/vegepron-sun",
+                "cultivos_clave": [
+                    "Ajo",
+                    "Berenjena",
+                    "Caqui",
+                    "Cebolla",
+                    "Cítricos",
+                    "Granado",
+                    "Manzano",
+                    "Peral",
+                    "Pimiento",
+                    "Piña",
+                    "Tomate",
+                    "Tomate de industria",
+                    "Tropicales (aguacate, mango, papaya, etc.)"
+                ]
+            }
+        ]
+    },
+    {
+        "accordion_text": "TRATAMIENTOS DE SEMILLAS (1)",
+        "products": [
+            {
+                "product_name": "TANSIL® FS",
+                "product_link": "https://www.upl-ltd.com/es/Productos/tansil",
+                "cultivos_clave": [
+                    "Simiente de avena",
+                    "Simiente de cebada",
+                    "Simiente de centeno",
+                    "Simiente de Trigo"
+                ]
+            }
+        ]
+    },
+    {
+        "accordion_text": "FISIOACTIVADORES (6)",
+        "products": [
+            {
+                "product_name": "GOACTIV® CALCIUM",
+                "product_link": "https://www.upl-ltd.com/es/Productos/goactiv-calcium",
+                "cultivos_clave": [
+                    "Albaricoquero",
+                    "Almendro",
+                    "Ciruelo",
+                    "Fresa y otras berries",
+                    "Hortícolas",
+                    "Manzano",
+                    "Níspero",
+                    "Olivo",
+                    "Patata"
+                ]
+            },
+            {
+                "product_name": "GOACTIV® CALIBRA",
+                "product_link": "https://www.upl-ltd.com/es/Productos/goactiv-calibra",
+                "cultivos_clave": [
+                    "Albaricoquero",
+                    "Almendro",
+                    "Arándano",
+                    "Avellano",
+                    "Berenjena",
+                    "Calabacín",
+                    "Cerezo",
+                    "Ciruelo",
+                    "Cítricos",
+                    "Frambuesa",
+                    "Fresal",
+                    "Grosellas",
+                    "Guisantes",
+                    "Haba",
+                    "Judías",
+                    "Kiwi",
+                    "Manzano",
+                    "Melón",
+                    "Nogal",
+                    "Olivo",
+                    "Pepino",
+                    "Peral",
+                    "Pimiento",
+                    "Pistacho",
+                    "Sandía",
+                    "Tomate",
+                    "Vid"
+                ]
+            },
+            {
+                "product_name": "GOACTIV® COLOR",
+                "product_link": "https://www.upl-ltd.com/es/Productos/goactiv-color",
+                "cultivos_clave": [
+                    "Manzano",
+                    "Pimiento",
+                    "Tomate",
+                    "Uva de mesa"
+                ]
+            },
+            {
+                "product_name": "GOACTIV® PRO",
+                "product_link": "https://www.upl-ltd.com/es/Productos/goactiv-pro",
+                "cultivos_clave": [
+                    "Almendro",
+                    "Brécol",
+                    "Colza",
+                    "Olivo"
+                ]
+            },
+            {
+                "product_name": "GOACTIV® ROOT",
+                "product_link": "https://www.upl-ltd.com/es/Productos/goactiv-root",
+                "cultivos_clave": [
+                    "Cítricos",
+                    "Fresal",
+                    "Frutales",
+                    "Hortícolas",
+                    "Semilleros y viveros",
+                    "Vid"
+                ]
+            },
+            {
+                "product_name": "GOACTIV® SP",
+                "product_link": "https://www.upl-ltd.com/es/Productos/goactiv-sp",
+                "cultivos_clave": [
+                    "Ajo",
+                    "Arándano",
+                    "Calabacín",
+                    "Cebolla",
+                    "Cultivos de hoja",
+                    "Fresal",
+                    "Frutales",
+                    "Melón",
+                    "Pepino",
+                    "Sandía",
+                    "Solanáceas",
+                    "Vid"
+                ]
+            }
+        ]
+    },
+    {
+        "accordion_text": "COADYUVANTES (1)",
+        "products": [
+            {
+                "product_name": "ECOMIX®",
+                "product_link": "https://www.upl-ltd.com/es/Productos/ecomix",
+                "cultivos_clave": [
+                    "Todas las especies vegetales"
+                ]
+            }
+        ]
     }
 ]
